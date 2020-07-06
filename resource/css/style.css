@@ -192,3 +192,59 @@ body{
     color: #000000;
     font-weight: 600;
 }
+
+
+            /* Categories */
+
+
+.categories{
+    padding: 60px 0px;
+    display: block;
+}
+
+.cat-title{
+    font-size: 40px;
+    font-weight: 600;
+    color: #1F1F1F;
+    padding-bottom: 15px;
+    border-bottom: 10px solid ;
+    border-image: linear-gradient(90deg, #FF9C35, #FFD019);
+    border-image-slice: 1;
+    margin-bottom: 60px;
+}
+
+.cat-img-1{
+    padding: 40px 30px 20px 30px;
+    border-radius: 10px 0px 10px 0px;
+    box-shadow: 8px 8px 40px #cccccc;
+}
+
+.img-center{
+    margin-left: 22%;
+}
+
+.cat-img-2{
+    padding: 40px 0px 25px 0px;
+    border-radius: 0px 10px 0px 10px;
+    box-shadow: 8px 8px 40px #cccccc; 
+}
+
+.cat-img-3{
+    padding: 40px 0px 25px 0px;
+    border-radius: 0px 10px 0px 10px;
+    box-shadow: 8px 8px 40px #cccccc; 
+    margin-top: 20px;
+}
+
+.cat-item{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.cat-item-shoe{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
