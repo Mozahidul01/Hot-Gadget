@@ -4,9 +4,6 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-        /* common-style */
-
-
 
         /* Navbar */
 .navigation-bar{
@@ -30,10 +27,11 @@ body{
     justify-content: center;
 }
 
+
         /* Banner-Content */
 
 .banner{
-    height: 520px;
+    display: block;
     background-image: url(../image/banner/banner-bg.png);
     background-size: cover;
     background-position: center;
@@ -49,7 +47,7 @@ body{
 }
 
 .carousel-indicators {
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     height: 0px;
 }
 
@@ -96,6 +94,95 @@ body{
 }
 
 .banner-button:hover{
+    background: linear-gradient(45deg, #FF9C35, #FFD019);
+    color: #000000;
+    font-weight: 600;
+}
+
+
+            /* Product */
+
+#product{
+    display: block;
+}
+
+.product-item{
+    margin: 20px;
+}
+
+.smartphone{
+    padding: 50px 0;
+    display: block;
+}
+
+.laptop{
+    padding: 75px 0px 30px 0px;
+    display: block;
+}
+
+.card-body{
+    padding: 25px 10px;
+}
+
+.product-name{
+    font-size: 30px;
+    font-weight: 600;
+    color: #1F1F1F;
+    padding-left: 45px;
+}
+
+.see-more{
+    font-size: 22px;
+    font-weight: 500;
+    color: #FF9D00;
+    padding-right: 45px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 8px 8px 20px #9b9b9b;
+}
+
+.card-img-top{
+    width: 200px;
+    padding-top: 25px;
+}
+
+.card-title{
+    font-size: 22px;
+    font-weight: 500;
+    color: #1F1F1F;
+    text-align: center;
+}
+
+.card-text{
+    font-size: 15px;
+    font-weight: 400;
+    color: #707070;
+    text-align: center; 
+}
+
+.product-price{
+    font-size: 25px;
+    font-weight: 600;
+    color: #1F1F1F;
+    text-align: center;
+}
+
+.product-buy-btn{
+    border: none;
+    border-radius: 5px;
+    font-size: 20;
+    font-weight: 500;
+    color: #ffffff;
+    background-color: #000000;
+    text-align: center;
+    padding: 8px 18px;
+    margin: 10px 0px 10px 31%;
+}
+
+.product-buy-btn:hover{
     background: linear-gradient(45deg, #FF9C35, #FFD019);
     color: #000000;
     font-weight: 600;
