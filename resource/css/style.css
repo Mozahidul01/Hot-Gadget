@@ -217,14 +217,14 @@ body{
     padding: 40px 40px 20px 40px;
     border-radius: 10px 0px 10px 0px;
     box-shadow: 8px 8px 30px #cccccc;
-    margin-bottom: 15px;
+    margin: 10px 10px;
 }
 
 .cat-img-2, .cat-img-3{
     padding: 45px 0px 30px 0px;
     border-radius: 0px 10px 0px 10px;
     box-shadow: 5px 5px 30px #cccccc; 
-    margin-top: 20px;
+    margin: 10px 10px;
 }
 
 .cat-item{
