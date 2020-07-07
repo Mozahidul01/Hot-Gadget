@@ -13,6 +13,11 @@ body{
     font-size: 18px;
     font-weight: 500;
 }
+
+.navbar-bg{
+    background-color: #ffffff;
+}
+
 .navbar-collapse{
     background-color: #ffffff;
     padding: 5px 5px 10px 5px;
