@@ -196,6 +196,10 @@ body{
 
             /* Services */
 
+.services{
+    margin: 0px 25px;
+}
+
 .service-icons{
     border: 1px solid #dddddd;
     border-radius: 10px;
