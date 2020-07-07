@@ -213,26 +213,26 @@ body{
     margin-bottom: 60px;
 }
 
-.cat-img-1{
-    padding: 40px 30px 20px 30px;
-    border-radius: 10px 0px 10px 0px;
-    box-shadow: 8px 8px 40px #cccccc;
+.cat-1, .cat-2 .cat-3{
+    margin: 5px;
 }
 
-.img-center{
-    margin-left: 22%;
+.cat-img-1{
+    padding: 40px 40px 20px 40px;
+    border-radius: 10px 0px 10px 0px;
+    box-shadow: 8px 8px 30px #cccccc;
 }
 
 .cat-img-2{
-    padding: 40px 0px 25px 0px;
+    padding: 40px 0px 30px 0px;
     border-radius: 0px 10px 0px 10px;
-    box-shadow: 8px 8px 40px #cccccc; 
+    box-shadow: 5px 5px 30px #cccccc; 
 }
 
 .cat-img-3{
-    padding: 40px 0px 25px 0px;
+    padding: 45px 0px 30px 0px;
     border-radius: 0px 10px 0px 10px;
-    box-shadow: 8px 8px 40px #cccccc; 
+    box-shadow: 5px 5px 30px #cccccc; 
     margin-top: 20px;
 }
 
