@@ -217,6 +217,7 @@ body{
     padding: 40px 40px 20px 40px;
     border-radius: 10px 0px 10px 0px;
     box-shadow: 8px 8px 30px #cccccc;
+    margin-bottom: 15px;
 }
 
 .cat-img-2, .cat-img-3{
