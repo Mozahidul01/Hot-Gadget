@@ -219,13 +219,7 @@ body{
     box-shadow: 8px 8px 30px #cccccc;
 }
 
-.cat-img-2{
-    padding: 40px 0px 30px 0px;
-    border-radius: 0px 10px 0px 10px;
-    box-shadow: 5px 5px 30px #cccccc; 
-}
-
-.cat-img-3{
+.cat-img-2, .cat-img-3{
     padding: 45px 0px 30px 0px;
     border-radius: 0px 10px 0px 10px;
     box-shadow: 5px 5px 30px #cccccc; 
