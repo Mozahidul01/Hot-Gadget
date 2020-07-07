@@ -184,7 +184,7 @@ body{
     background-color: #000000;
     text-align: center;
     padding: 8px 18px;
-    margin: 10px 0px 10px 31%;
+    margin: 10px 0px;
 }
 
 .product-buy-btn:hover{
@@ -194,8 +194,52 @@ body{
 }
 
 
-            /* Categories */
+            /* Services */
 
+.service-icons{
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    margin-top: 75px;
+    margin-bottom: 60px;
+}
+
+.icon-content-second, .icon-content-third,.icon-content-fourth{
+    border-left: 1px solid #dddddd;
+}
+
+.icon i{
+    font-size: 35px;
+    background: -webkit-linear-gradient(60deg, #FF9C35, #FFD019);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-right: 20px;
+}
+
+.service-details{
+    padding: 20px 0px;
+    margin: 0;
+}
+
+.service-title{
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    color: #1F1F1F;
+    padding: 0;
+    margin: 0;
+}
+
+.service-extra{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #6e6e6e;
+    padding: 0;
+    margin: 0;
+}
+
+
+            /* Categories */
 
 .categories{
     padding: 60px 0px;
@@ -217,14 +261,14 @@ body{
     padding: 40px 40px 20px 40px;
     border-radius: 10px 0px 10px 0px;
     box-shadow: 8px 8px 30px #cccccc;
-    margin: 10px 10px;
+    margin: 10px 20px;
 }
 
 .cat-img-2, .cat-img-3{
     padding: 45px 0px 30px 0px;
     border-radius: 0px 10px 0px 10px;
     box-shadow: 5px 5px 30px #cccccc; 
-    margin: 10px 10px;
+    margin: 10px 20px;
 }
 
 .cat-item{
