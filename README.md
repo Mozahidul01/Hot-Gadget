@@ -1,2 +1,2 @@
 # Hot Gadget
-![screenshot](https://user-images.githubusercontent.com/60352344/122649649-927a2780-d150-11eb-8117-e9543df15293.png)
+![screenshot](https://www.awesomescreenshot.com/image/36648071?key=fff3dd22c5d453c9a38cfee17a977101)
